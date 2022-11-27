@@ -38,3 +38,4 @@ end
 
 gem 'faker', '~> 2.17'
 gem 'active_model_serializers'
+gem "ruby-lsp", "~> 0.3.6", :group => :development
